@@ -1,0 +1,14 @@
+﻿@font-face {
+  font-family: 'Noto Kufi Arabic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v37bIlrA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Kufi Arabic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: url(CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh6I2LbIlrA.ttf) format('truetype');
+}
